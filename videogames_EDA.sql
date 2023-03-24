@@ -49,14 +49,6 @@ GROUP BY Name
 ORDER BY total_Global_Sales DESC
 
 
--- Año de mayor venta de los 10 juegos mas vendidos
-SELECT TOP 5 Name,
-       MAX(Global_Sales) as total_Global_Sales,
-	   Year
-FROM videogames
-GROUP BY Name, Global_Sales, Year
-ORDER BY Global_Sales DESC
-
 
 -----------------------------------------------------------
 
