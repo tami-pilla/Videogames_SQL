@@ -6,7 +6,7 @@
 ### **Variables del Dataset:**
 RANK: Ranking de ventas<br>
 NAME: Nombre del videojuego <br>
-PLATFORM: Platforma que lanzo el videojuego <br>
+PLATFORM: Platforma que lanzo el videojuego <br> 
 YEAR: Año de lanzamiento del videojuego <br>
 GENRE: Género del videojuego <br>
 PUBLISHER: Editorial del videojuego <br>
