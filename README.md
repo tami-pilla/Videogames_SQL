@@ -9,12 +9,12 @@ NAME: Nombre del videojuego <br>
 PLATFORM: Platforma que lanzo el videojuego <br>
 YEAR: Año de lanzamiento del videojuego <br>
 GENRE: Género del videojuego <br>
-PUBLISHER: Editor del videojuego <br>
-NA_Sales: Ventas en Norte América (en millones) <br>
-EU_Sales: Ventas en Europa (en millones) <br>
-JP_Sales: Ventas en Japón (en millones) <br>
-Other_Sales: Ventas en el resto del mundo (en millones) <br>
-Global_Sales: Total de ventas globales <br>
+PUBLISHER: Editorial del videojuego <br>
+NA_Sales: Cantidad de ventas en Norte América (en millones) <br>
+EU_Sales: Cantidad de ventas en Europa (en millones) <br>
+JP_Sales: Cantidad de ventas en Japón (en millones) <br>
+Other_Sales: Cantidad de ventas en el resto del mundo (en millones) <br>
+Global_Sales: Cantidad total de ventas globales <br>
 
 **Temas abarcados:**
    Análisis Descriptivo y Exploratiorio con SQL.
